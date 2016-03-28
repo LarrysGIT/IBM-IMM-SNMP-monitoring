@@ -10,3 +10,5 @@ For more details, you can do more research on SNMP OID data.
 	2. imm.sh - the script, embed with my nagios server.
 	3. imm.snmp.txt - a data sample from my server, reference only, removable.
 If you don't know how to use a mib file, a [mib browser] probably can help you out.
+
+- Larry.Song@outlook.com
